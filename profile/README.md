@@ -3,7 +3,7 @@
 **Welcome to Parasprunki 14.0!**
  Dive into the exciting world of Parasprunki 14.0, the latest fan-made mod inspired by the beloved music creation game, Incredibox. This version enhances the original concept, merging intuitive music composition with engaging rhythm gameplay, perfect for both casual players and serious music enthusiasts.
 
-👉👉 Click to play [Parasprunki 14.0](https://scrunkly.cc/game/parasprunki-14)
+👉👉 Click to play [Parasprunki 14.0](https://sprunkly.org/game/parasprunki-14)
 
 ## Other Sprunki Games
 
